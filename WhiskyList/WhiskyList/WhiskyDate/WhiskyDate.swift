@@ -14,7 +14,7 @@ class WhiskyDate {
     var whisky: [Whisky]
     
     private init() {
-        whisky = [Whisky(whisky: "Laphroig", price: 50.0, image: #imageLiteral(resourceName: "Laphroig")),
+        whisky = [Whisky(whisky: "Laphroig", price: 50.0, image: #imageLiteral(resourceName: "Laphroaig")),
                   Whisky(whisky: "Ardbeg10", price: 70.0, image: #imageLiteral(resourceName: "Ardbeg10.jpeg")),
                   Whisky(whisky: "Bigpeat", price: 55.0, image: #imageLiteral(resourceName: "Bigpeat.png"))]
     }

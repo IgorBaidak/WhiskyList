@@ -19,6 +19,7 @@
 		33995AAA28B4DBFB003425FD /* Feedback.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AA928B4DBFB003425FD /* Feedback.swift */; };
 		33995AAD28B4DDFA003425FD /* WhiskyDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AAC28B4DDFA003425FD /* WhiskyDate.swift */; };
 		33995AAF28B4F712003425FD /* FeedbackVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AAE28B4F711003425FD /* FeedbackVC.swift */; };
+		33995AB128B64C40003425FD /* DetailFeedbackTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AB028B64C40003425FD /* DetailFeedbackTVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		33995AA928B4DBFB003425FD /* Feedback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feedback.swift; sourceTree = "<group>"; };
 		33995AAC28B4DDFA003425FD /* WhiskyDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiskyDate.swift; sourceTree = "<group>"; };
 		33995AAE28B4F711003425FD /* FeedbackVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackVC.swift; sourceTree = "<group>"; };
+		33995AB028B64C40003425FD /* DetailFeedbackTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailFeedbackTVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				33995A9F28B4B984003425FD /* WhiskyTVC.swift */,
 				33995AA128B4B9C8003425FD /* DetailWhiskyVC.swift */,
 				33995AAE28B4F711003425FD /* FeedbackVC.swift */,
+				33995AB028B64C40003425FD /* DetailFeedbackTVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				33995AAD28B4DDFA003425FD /* WhiskyDate.swift in Sources */,
+				33995AB128B64C40003425FD /* DetailFeedbackTVC.swift in Sources */,
 				33995AA528B4C3AF003425FD /* WhiskySource.swift in Sources */,
 				33995AA028B4B984003425FD /* WhiskyTVC.swift in Sources */,
 				33995AA828B4DB60003425FD /* Whisky.swift in Sources */,
