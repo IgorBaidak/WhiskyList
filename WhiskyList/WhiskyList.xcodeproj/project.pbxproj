@@ -9,21 +9,35 @@
 /* Begin PBXBuildFile section */
 		33995A8928B4AEE1003425FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995A8828B4AEE1003425FD /* AppDelegate.swift */; };
 		33995A8B28B4AEE1003425FD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995A8A28B4AEE1003425FD /* SceneDelegate.swift */; };
-		33995A8D28B4AEE1003425FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995A8C28B4AEE1003425FD /* ViewController.swift */; };
 		33995A9028B4AEE1003425FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33995A8E28B4AEE1003425FD /* Main.storyboard */; };
 		33995A9228B4AEE2003425FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33995A9128B4AEE2003425FD /* Assets.xcassets */; };
 		33995A9528B4AEE2003425FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33995A9328B4AEE2003425FD /* LaunchScreen.storyboard */; };
+		33995AA028B4B984003425FD /* WhiskyTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995A9F28B4B984003425FD /* WhiskyTVC.swift */; };
+		33995AA228B4B9C8003425FD /* DetailWhiskyVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AA128B4B9C8003425FD /* DetailWhiskyVC.swift */; };
+		33995AA528B4C3AF003425FD /* WhiskySource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AA428B4C3AF003425FD /* WhiskySource.swift */; };
+		33995AA828B4DB60003425FD /* Whisky.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AA728B4DB60003425FD /* Whisky.swift */; };
+		33995AAA28B4DBFB003425FD /* Feedback.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AA928B4DBFB003425FD /* Feedback.swift */; };
+		33995AAD28B4DDFA003425FD /* WhiskyDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AAC28B4DDFA003425FD /* WhiskyDate.swift */; };
+		33995AAF28B4F712003425FD /* FeedbackVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AAE28B4F711003425FD /* FeedbackVC.swift */; };
+		33995AB128B64C40003425FD /* DetailFeedbackTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33995AB028B64C40003425FD /* DetailFeedbackTVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		33995A8528B4AEE1003425FD /* WhiskyList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhiskyList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33995A8828B4AEE1003425FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33995A8A28B4AEE1003425FD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		33995A8C28B4AEE1003425FD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		33995A8F28B4AEE1003425FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		33995A9128B4AEE2003425FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		33995A9428B4AEE2003425FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		33995A9628B4AEE2003425FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33995A9F28B4B984003425FD /* WhiskyTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiskyTVC.swift; sourceTree = "<group>"; };
+		33995AA128B4B9C8003425FD /* DetailWhiskyVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailWhiskyVC.swift; sourceTree = "<group>"; };
+		33995AA428B4C3AF003425FD /* WhiskySource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiskySource.swift; sourceTree = "<group>"; };
+		33995AA728B4DB60003425FD /* Whisky.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whisky.swift; sourceTree = "<group>"; };
+		33995AA928B4DBFB003425FD /* Feedback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feedback.swift; sourceTree = "<group>"; };
+		33995AAC28B4DDFA003425FD /* WhiskyDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiskyDate.swift; sourceTree = "<group>"; };
+		33995AAE28B4F711003425FD /* FeedbackVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedbackVC.swift; sourceTree = "<group>"; };
+		33995AB028B64C40003425FD /* DetailFeedbackTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailFeedbackTVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +70,70 @@
 		33995A8728B4AEE1003425FD /* WhiskyList */ = {
 			isa = PBXGroup;
 			children = (
-				33995A8828B4AEE1003425FD /* AppDelegate.swift */,
-				33995A8A28B4AEE1003425FD /* SceneDelegate.swift */,
-				33995A8C28B4AEE1003425FD /* ViewController.swift */,
-				33995A8E28B4AEE1003425FD /* Main.storyboard */,
+				33995A9C28B4AFC0003425FD /* Delegate */,
+				33995AA628B4DB3D003425FD /* Models */,
+				33995A9E28B4B654003425FD /* Controller */,
+				33995A9D28B4B646003425FD /* View */,
+				33995AAB28B4DDAC003425FD /* WhiskyDate */,
+				33995AA328B4C366003425FD /* DataSource */,
 				33995A9128B4AEE2003425FD /* Assets.xcassets */,
 				33995A9328B4AEE2003425FD /* LaunchScreen.storyboard */,
 				33995A9628B4AEE2003425FD /* Info.plist */,
 			);
 			path = WhiskyList;
+			sourceTree = "<group>";
+		};
+		33995A9C28B4AFC0003425FD /* Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				33995A8828B4AEE1003425FD /* AppDelegate.swift */,
+				33995A8A28B4AEE1003425FD /* SceneDelegate.swift */,
+			);
+			path = Delegate;
+			sourceTree = "<group>";
+		};
+		33995A9D28B4B646003425FD /* View */ = {
+			isa = PBXGroup;
+			children = (
+				33995A8E28B4AEE1003425FD /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		33995A9E28B4B654003425FD /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				33995A9F28B4B984003425FD /* WhiskyTVC.swift */,
+				33995AA128B4B9C8003425FD /* DetailWhiskyVC.swift */,
+				33995AAE28B4F711003425FD /* FeedbackVC.swift */,
+				33995AB028B64C40003425FD /* DetailFeedbackTVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		33995AA328B4C366003425FD /* DataSource */ = {
+			isa = PBXGroup;
+			children = (
+				33995AA428B4C3AF003425FD /* WhiskySource.swift */,
+			);
+			path = DataSource;
+			sourceTree = "<group>";
+		};
+		33995AA628B4DB3D003425FD /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				33995AA728B4DB60003425FD /* Whisky.swift */,
+				33995AA928B4DBFB003425FD /* Feedback.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		33995AAB28B4DDAC003425FD /* WhiskyDate */ = {
+			isa = PBXGroup;
+			children = (
+				33995AAC28B4DDFA003425FD /* WhiskyDate.swift */,
+			);
+			path = WhiskyDate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +207,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				33995A8D28B4AEE1003425FD /* ViewController.swift in Sources */,
+				33995AAD28B4DDFA003425FD /* WhiskyDate.swift in Sources */,
+				33995AB128B64C40003425FD /* DetailFeedbackTVC.swift in Sources */,
+				33995AA528B4C3AF003425FD /* WhiskySource.swift in Sources */,
+				33995AA028B4B984003425FD /* WhiskyTVC.swift in Sources */,
+				33995AA828B4DB60003425FD /* Whisky.swift in Sources */,
 				33995A8928B4AEE1003425FD /* AppDelegate.swift in Sources */,
+				33995AAF28B4F712003425FD /* FeedbackVC.swift in Sources */,
+				33995AA228B4B9C8003425FD /* DetailWhiskyVC.swift in Sources */,
+				33995AAA28B4DBFB003425FD /* Feedback.swift in Sources */,
 				33995A8B28B4AEE1003425FD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
