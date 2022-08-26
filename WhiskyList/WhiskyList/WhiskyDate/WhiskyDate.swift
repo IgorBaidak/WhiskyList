@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+// типо база данных
 class WhiskyDate {
     // создаем Singletone
     static let shared = WhiskyDate()

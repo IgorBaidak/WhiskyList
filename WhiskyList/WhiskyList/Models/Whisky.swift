@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-
+// модель одного виски
 struct Whisky {
     
     let whisky: String
